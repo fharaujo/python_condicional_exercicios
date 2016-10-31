@@ -12,23 +12,35 @@ Rede Social : https://br.linkedin.com/in/fharaujo E-mail: araujofabio2012@gmail.
 LISTAGEM:
 LISTA DE EXERCÍCIO – PYTHON.ORG
 0.Faça um Programa que peça dois números e imprima o maior deles.
+
 1.Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
+
 2.Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F
 - Feminino, M - Masculino, Sexo Inválido.
+
 3.Faça um Programa que verifique se uma letra digitada é vogal ou consoante.
+
 4.Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular
 a média alcançada por aluno e apresentar:
 •A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
+
 •A mensagem "Reprovado", se a média for menor do que sete;
+
 •A mensagem "Aprovado com Distinção", se a média for igual a dez.
+
 5.Faça um Programa que leia três números e mostre o maior deles.
+
 6.Faça um Programa que leia três números e mostre o maior e o menor deles.
+
 7.Faça um programa que pergunte o preço de três produtos e informe qual produto você deve
 comprar, sabendo que a decisão é sempre pelo mais barato.
+
 8.Faça um Programa que leia três números e mostre-os em ordem decrescente.
+
 9.Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-
 Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou
 "Valor Inválido!", conforme o caso.
+
 10.As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores e lhe
 contraram para desenvolver o programa que calculará os reajustes.
 •Faça um programa que recebe o salário de um colaborador e o reajuste segundo o
@@ -42,6 +54,7 @@ informe na tela:
 •o percentual de aumento aplicado;
 •o valor do aumento;
 •o novo salário, após o aumento.
+
 11.Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são
 do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o
 Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa
@@ -60,12 +73,7 @@ Salário Bruto: (5 * 220)
 FGTS (11%)
 Total de descontos
 Salário Liquido
-:
-:
-:
-:
-:
-:
+
 R$ 1100,00
 R$
 55,00
@@ -73,6 +81,8 @@ R$ 110,00
 R$ 121,00
 R$ 165,00
 R$ 935,00
+
+
 12.Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo,
 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.13.Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao
 longo de um semestre, e calcule a sua média. A atribuição de conceitos obedece à tabela abaixo:
@@ -90,6 +100,7 @@ E
 O algoritmo deve mostrar na tela as notas, a média, o conceito correspondente e a
 mensagem “APROVADO” se o conceito for A, B ou C ou “REPROVADO” se o conceito for D
 ou E.
+
 14.Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os
 valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é:
 equilátero, isósceles ou escaleno.
@@ -99,6 +110,7 @@ terceiro;
 •Triângulo Equilátero: três lados iguais;
 •Triângulo Isósceles: quaisquer dois lados iguais;
 •Triângulo Escaleno: três lados diferentes;
+
 15.Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx
 + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao
 usuário nas seguintes situações:
@@ -109,16 +121,20 @@ encerre o programa;
 •Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informe-a ao
 usuário;
 •Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;
+
 16.Faça um Programa que peça um número correspondente a um determinado ano e em seguida
 informe se este ano é ou não bissexto.
+
 17.Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é
 uma data válida.
+
 18.Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de
 centenas, dezenas e unidades do mesmo.
 •Observando os termos no plural a colocação do "e", da vírgula entre outros. Exemplo:
 •326 = 3 centenas, 2 dezenas e 6 unidades
 •12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111,
 25, 20, 10, 21, 11, 1, 7 e 16
+
 19.Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a
 média alcançada por aluno e presentar:
 •A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média
@@ -133,16 +149,20 @@ programa não deve se preocupar com a quantidade de notas existentes na máquina
 uma nota de 50, uma nota de 5 e uma nota de 1;
 •Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma
 nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.
+
 21.Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize
 o operador módulo (resto da divisão).
+
 22.Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica:
 utilize uma função de arredondamento.
+
 23.Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele
 deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o
 número é:
 •par ou ímpar;
 •positivo ou negativo;
 •inteiro ou decimal.
+
 24.Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
 •"Telefonou para a vítima?"
 •"Esteve no local do crime?"
@@ -152,6 +172,7 @@ número é:
 participação da pessoa no crime. Se a pessoa responder positivamente a 2 questões ela
 deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino".
 Caso contrário, ele será classificado como "Inocente".
+
 25.Um posto está vendendo combustíveis com a seguinte tabela de descontos:
 •Álcool:
 •até 20 litros, desconto de 3% por litro
@@ -162,8 +183,9 @@ Caso contrário, ele será classificado como "Inocente".
 litros vendidos, o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina),
 calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da
 gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
+
 26.Uma fruteira está vendendo frutas com a seguinte tabela de preços:
-•
+
 Até 5 Kg
 Acima de 5 Kg
 Morango
