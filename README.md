@@ -10,7 +10,8 @@ Rede Social : https://br.linkedin.com/in/fharaujo E-mail: araujofabio2012@gmail.
 
 
 LISTAGEM:
-LISTA DE EXERCÍCIO – PYTHON.ORG
+LISTA DE EXERCÍCIO – PYTHON.ORG - 
+
 0.Faça um Programa que peça dois números e imprima o maior deles.
 
 1.Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
