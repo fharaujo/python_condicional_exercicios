@@ -9,8 +9,11 @@ Todos os exercícios foram retirados do site: http://wiki.python.org.br/ListaDeE
 Rede Social : https://br.linkedin.com/in/fharaujo E-mail: araujofabio2012@gmail.com
 
 
-LISTAGEM:
-LISTA DE EXERCÍCIO – PYTHON.ORG - 
+
+
+
+# LISTAGEM:
+# LISTA DE EXERCÍCIO – PYTHON.ORG - 
 
 0.Faça um Programa que peça dois números e imprima o maior deles.
 
